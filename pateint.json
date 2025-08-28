@@ -1,0 +1,57 @@
+{"poo1":
+  {
+    "name": "Rahul Kumar",
+    "city": "Mumbai",
+    "age": 32,
+    "gender": "Male",
+    "height": 1.75,
+    "weight": 70,
+    "bmi": 22.86,
+    "verdict": "Healthy"
+  },
+  "poo2":
+  {
+    "name": "Priya Sharma",
+    "city": "Delhi",
+    "age": 28,
+    "gender": "Female",
+    "height": 1.62,
+    "weight": 68,
+    "bmi": 25.90,
+    "verdict": "Overweight"
+  },
+   "poo3":
+  {
+    "name": "Amit Verma",
+    "city": "Bengaluru",
+    "age": 45,
+    "gender": "Male",
+    "height": 1.80,
+    "weight": 95,
+    "bmi": 29.32,
+    "verdict": "Overweight"
+  },
+  "poo4":
+  {
+    "name": "Sneha Patel",
+    "city": "Ahmedabad",
+    "age": 35,
+    "gender": "Female",
+    "height": 1.55,
+    "weight": 50,
+    "bmi": 20.81,
+    "verdict": "Healthy"
+  },
+  "poo5":
+  {
+    "name": "Mohammed Irfan",
+    "city": "Hyderabad",
+    "age": 50,
+    "gender": "Male",
+    "height": 1.70,
+    "weight": 105,
+    "bmi": 36.33,
+    "verdict": "Obese"
+  }
+  
+}
